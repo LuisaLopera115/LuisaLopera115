@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @LuisaLopera115
+- 👋 Hi, I’m @Luisa Fernanda Lopera Gallo.
 - 👀 I’m interested in web developer.
-- 🌱 I’m currently learning engineer in digital entertainment designs
-- 💞️ I’m looking to collaborate with people who love develope video games and wed pages 
+- 🌱 I’m currently studying engineer in digital entertainment designs.
+- 💞️ I’m looking to collaborate with people who love develope video games and wed pages. 
 - 📫 How to reach me I don't have link yet :3
 
 <!---
